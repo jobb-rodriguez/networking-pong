@@ -1,0 +1,23 @@
+{
+  "name": "networking-pong",
+  "version": "1.0.0",
+  "description": "This is in fulfillment of the final requirements in Networks and Communications",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobb-rodriguez/networking-pong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobb-rodriguez/networking-pong/issues"
+  },
+  "homepage": "https://github.com/jobb-rodriguez/networking-pong#readme",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
