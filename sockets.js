@@ -1,4 +1,6 @@
 function listen(io) {
+    // const pongNamespace = io.of('/pong');
+    // replace ios with pongNamespace
     let readyPlayerCount = 0;
     io.on('connection', (socket) => {
         console.log('a user connected: ', socket.id);
